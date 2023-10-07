@@ -1,11 +1,29 @@
-## Awesome Artificial Intelligence State-of-the-Arts Papers 
+## Awesome Artificial Intelligence State-of-the-Arts Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 <div align="center">
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sabahesaraY)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+
+
+## NLP
+
+|Year|Name|Arxiv|CODE|
+|---|---|---|---|
+|2019|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[PDF](https://browse.arxiv.org/pdf/1810.04805v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/bert)|
+|2023|ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases|[PDF](https://browse.arxiv.org/pdf/2306.16092v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/pku-yuangroup/chatlaw)|
+|2023|Text-To-4D Dynamic Scene Generation|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
+|2016|SSD(Single Shot Detection) : Single Shot MultiBox Detector|[PDF](https://arxiv.org/pdf/1506.01497.pdf)| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aman10kr/face-mask-detection-using-ssd) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/amdegroot/ssd.pytorch)|
+|2017|FPN(Feature Pyramids Network) : Feature Pyramid Networks for Object Detection|[PDF](https://arxiv.org/pdf/1506.01497.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jwyang/fpn.pytorch)|
+
+
+
+
+
+
+
 
 
 ## Medical Image Segmentation
