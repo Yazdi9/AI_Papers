@@ -13,6 +13,7 @@
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
 |2015|U-Net: Convolutional Networks for Biomedical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/1505.04597v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/milesial/Pytorch-UNet)|
+|2016|3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation|[PDF](https://browse.arxiv.org/pdf/1606.06650.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wolny/pytorch-3dunet)|
 |2018|UNet++: A Nested U-Net Architecture for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/1807.10165v1.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/abdualimov/unet-a-nested-u-net-tensorflow-architecture)|[![GitHub](https://github.com/MrGiovanni/UNetPlusPlus)|
 |2019|UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation|[PDF](https://browse.arxiv.org/pdf/1912.05074v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MrGiovanni/UNetPlusPlus)|
 |2018|nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/1809.10486v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MIC-DKFZ/nnunet)|
@@ -37,7 +38,7 @@
 |2022|Contextual Attention Network: Transformer Meets U-Net|[PDF](https://browse.arxiv.org/pdf/2203.01932v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rezazad68/tmunet)|
 |2022|UNeXt: MLP-based Rapid Medical Image Segmentation Network|[PDF](https://browse.arxiv.org/pdf/2203.04967v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jeya-maria-jose/unext-pytorch)|
 |2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
-|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2023|MaxViT-UNet: Multi-Axis Attention for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2305.08396v4.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/prlab21/maxvit-unet)|
 |2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
 |2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
 |2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
