@@ -33,10 +33,18 @@
 |2021|UNETR: Transformers for 3D Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2103.10504v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)|
 |2021|PocketNet: A Smaller Neural Network for Medical Image Analysis|[PDF](https://browse.arxiv.org/pdf/2104.10745v4.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/aecelaya/MIST)|
 |2021|UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2212.04497v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/amshaker/unetr_plus_plus)|
-|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
-|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
-|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
-|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
+|2022|3D-UCaps: 3D Capsules Unet for Volumetric Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2203.08965v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/vinairesearch/3d-ucaps)|
+|2022|Contextual Attention Network: Transformer Meets U-Net|[PDF](https://browse.arxiv.org/pdf/2203.01932v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rezazad68/tmunet)|
+|2022|UNeXt: MLP-based Rapid Medical Image Segmentation Network|[PDF](https://browse.arxiv.org/pdf/2203.04967v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jeya-maria-jose/unext-pytorch)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
+|2022|The Fully Convolutional Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2206.00566v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/thanos-db/fullyconvolutionaltransformer)|
 
 
 
