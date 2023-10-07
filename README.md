@@ -30,6 +30,14 @@
 |2019|MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation|[PDF](https://arxiv.org/pdf/1902.04049.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/skorpion21/multiresunet) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nibtehaz/MultiResUNet)|
 |2021|Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2105.05537v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/HuCaoFighting/Swin-Unet)|
 |2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
+|2021|UNETR: Transformers for 3D Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2103.10504v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)|
+|2021|PocketNet: A Smaller Neural Network for Medical Image Analysis|[PDF](https://browse.arxiv.org/pdf/2104.10745v4.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/aecelaya/MIST)|
+|2021|UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation|[PDF](https://browse.arxiv.org/pdf/2212.04497v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/amshaker/unetr_plus_plus)|
+|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
+|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
+|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
+|2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
+
 
 
 
