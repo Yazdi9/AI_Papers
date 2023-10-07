@@ -4,11 +4,11 @@
 <div align="center">
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sabahesaraY)
+[![Twitter](https://img.shields.io/twitter/follow/sabahesaraki?style=social)](https://twitter.com/saba_hesaraki)
 
 
 
-
-## NLP
+## ✨NLP
 
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
@@ -20,12 +20,12 @@
 
 
 
+## ✨ Computer Vision
+* Generate on a 48GB GPU
+* Finetune on two 48GB GPUs
+* LLM
 
-
-
-
-
-## Medical Image Segmentation
+### 🧪 Medical Image Segmentation
 
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
