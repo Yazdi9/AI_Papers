@@ -21,9 +21,14 @@
 
 
 ## ✨ Computer Vision
-* Generate on a 48GB GPU
-* Finetune on two 48GB GPUs
-* LLM
+
+|Year|Name|Arxiv|CODE|
+|---|---|---|---|
+|2019|BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[PDF](https://browse.arxiv.org/pdf/1810.04805v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/bert) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+|2023|ChatLaw: Open-Source Legal Large Language Model with Integrated External Knowledge Bases|[PDF](https://browse.arxiv.org/pdf/2306.16092v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/pku-yuangroup/chatlaw)|
+|2023|Text-To-4D Dynamic Scene Generation|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
+|2023|GPT-4 Technical Report|[PDF](https://arxiv.org/pdf/2303.08774v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/evals)|
+
 
 ### 🧪 Medical Image Segmentation
 
