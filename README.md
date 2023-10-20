@@ -24,6 +24,7 @@
 
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
+|2013|R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation|[PDF](https://arxiv.org/pdf/1311.2524.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rbgirshick/rcnn)|
 |2016|SegNet: A Deep Convolutional Encoder-Decoder Architecture for image segmentation|[PDF](https://browse.arxiv.org/pdf/1810.04805v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/bert) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
 |2020|Cycle GAN :Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks|[PDF](https://browse.arxiv.org/pdf/2306.16092v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/pku-yuangroup/chatlaw)|
 |2020|NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
