@@ -31,7 +31,9 @@
 |2016|SegNet: A Deep Convolutional Encoder-Decoder Architecture for image segmentation|[PDF](https://browse.arxiv.org/pdf/1810.04805v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/bert) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
 |2017|Mask R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation|[PDF](https://arxiv.org/pdf/1703.06870v3.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/tensorflow/models/tree/master/official/vision)|
 |2020|Cycle GAN :Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks|[PDF](https://browse.arxiv.org/pdf/2306.16092v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/pku-yuangroup/chatlaw)|
+|2020|A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild|[PDF](https://arxiv.org/pdf/2008.10010v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Rudrabha/Wav2Lip)|
 |2020|NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
+|2021|AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis|[PDF](https://arxiv.org/pdf/2103.11078v3.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/YudongGuo/AD-NeRF)|
 |2022|High-Resolution Image Synthesis with Latent Diffusion Models|[PDF](https://arxiv.org/pdf/2303.08774v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/evals)|
 |2023|Text-To-4D Dynamic Scene Generation|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
 
