@@ -36,6 +36,7 @@
 |2021|AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis|[PDF](https://arxiv.org/pdf/2103.11078v3.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/YudongGuo/AD-NeRF)|
 |2022|High-Resolution Image Synthesis with Latent Diffusion Models|[PDF](https://arxiv.org/pdf/2303.08774v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/evals)|
 |2023|Text-To-4D Dynamic Scene Generation|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
+|2023|StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles|[PDF](https://arxiv.org/pdf/2301.01081.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/fuxivirtualhuman/styletalk)|
 
 
 ### 🧪 Medical Image Segmentation
