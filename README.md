@@ -25,6 +25,8 @@
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
 |2013|R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation|[PDF](https://arxiv.org/pdf/1311.2524.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rbgirshick/rcnn)|
+|2015|Style Transfer: A Neural Algorithm of Artistic Style|[PDF](https://arxiv.org/pdf/1508.06576v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jcjohnson/neural-style)|
+|2016|DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs|[PDF](https://arxiv.org/pdf/1606.00915v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/tensorflow/models/tree/master/research/deeplab)|
 |2016|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[PDF](https://arxiv.org/pdf/1506.01497v3.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/chenyuntc/simple-faster-rcnn-pytorch/blob/367db367834efd8a2bc58ee0023b2b628a0e474d/model/faster_rcnn.py#L22)|
 |2016|SegNet: A Deep Convolutional Encoder-Decoder Architecture for image segmentation|[PDF](https://browse.arxiv.org/pdf/1810.04805v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/bert) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
 |2017|Mask R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation|[PDF](https://arxiv.org/pdf/1703.06870v3.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/tensorflow/models/tree/master/official/vision)|
