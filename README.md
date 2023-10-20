@@ -25,7 +25,9 @@
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
 |2013|R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation|[PDF](https://arxiv.org/pdf/1311.2524.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/rbgirshick/rcnn)|
+|2016|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[PDF](https://arxiv.org/pdf/1506.01497v3.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/chenyuntc/simple-faster-rcnn-pytorch/blob/367db367834efd8a2bc58ee0023b2b628a0e474d/model/faster_rcnn.py#L22)|
 |2016|SegNet: A Deep Convolutional Encoder-Decoder Architecture for image segmentation|[PDF](https://browse.arxiv.org/pdf/1810.04805v2.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/bert) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13ErkLg5FZHIbnUGZRkKlL-9WNCNQPIow)|
+|2017|Mask R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation|[PDF](https://arxiv.org/pdf/1703.06870v3.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/tensorflow/models/tree/master/official/vision)|
 |2020|Cycle GAN :Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks|[PDF](https://browse.arxiv.org/pdf/2306.16092v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/pku-yuangroup/chatlaw)|
 |2020|NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
 |2022|High-Resolution Image Synthesis with Latent Diffusion Models|[PDF](https://arxiv.org/pdf/2303.08774v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/evals)|
