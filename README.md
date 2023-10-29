@@ -38,6 +38,7 @@
 |2022|High-Resolution Image Synthesis with Latent Diffusion Models|[PDF](https://arxiv.org/pdf/2303.08774v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/openai/evals)|
 |2022|StyleSwap: Style-Based Generator Empowers Robust Face Swapping|[PDF](https://arxiv.org/pdf/2209.13514.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Seanseattle/StyleSwap)|
 |2022|Few-Shot Head Swapping in the Wild|[PDF](https://arxiv.org/pdf/2204.13100.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jmliu88/HeSer)|
+|2022|MobileFaceSwap: A Lightweight Framework for Video Face Swapping|[PDF](https://arxiv.org/pdf/2201.03808.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Seanseattle/MobileFaceSwap)|
 |2023|Text-To-4D Dynamic Scene Generation|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
 |2023|StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles|[PDF](https://arxiv.org/pdf/2301.01081.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/fuxivirtualhuman/styletalk)|
 
