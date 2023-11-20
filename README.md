@@ -48,6 +48,9 @@
 |2023|DiffusionVideoEditing: Speech Driven Video Editing via an Audio-Conditioned Diffusion Model |[PDF](https://arxiv.org/pdf/2301.04474.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/DanBigioi/DiffusionVideoEditing)|
 |2023|Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head Video Generation |[PDF](https://arxiv.org/pdf/2307.09906.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/harlanhong/ICCV2023-MCNET)|
 |2023|OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering |[PDF](https://arxiv.org/pdf/2303.14662.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/theEricMa/OTAvatar)|
+|2023|Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert|[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Sxjdwang/TalkLip)|
+|2023|GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis|[PDF](https://arxiv.org/pdf/2301.13430.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yerfor/GeneFace)|
+|2023|CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|[PDF](https://arxiv.org/pdf/2301.02379.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Doubiiu/CodeTalker)|
 
 ### 🧪 Medical Image Segmentation
 
