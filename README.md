@@ -41,7 +41,8 @@
 |2022|MobileFaceSwap: A Lightweight Framework for Video Face Swapping|[PDF](https://arxiv.org/pdf/2201.03808.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Seanseattle/MobileFaceSwap)|
 |2023|Text-To-4D Dynamic Scene Generation|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
 |2023|StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles|[PDF](https://arxiv.org/pdf/2301.01081.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/fuxivirtualhuman/styletalk)|
-
+|2023|Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis|[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Fictionarry/ER-NeRF)|
+|2023|DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High-Resolution Video |[PDF](https://fuxivirtualhuman.github.io/pdf/AAAI2023_FaceDubbing.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MRzzm/DINet)|
 
 ### 🧪 Medical Image Segmentation
 
