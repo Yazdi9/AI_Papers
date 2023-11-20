@@ -43,6 +43,9 @@
 |2023|StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles|[PDF](https://arxiv.org/pdf/2301.01081.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/fuxivirtualhuman/styletalk)|
 |2023|Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis|[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Fictionarry/ER-NeRF)|
 |2023|DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High-Resolution Video |[PDF](https://fuxivirtualhuman.github.io/pdf/AAAI2023_FaceDubbing.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MRzzm/DINet)|
+|2023|DiffusionVideoEditing: Speech Driven Video Editing via an Audio-Conditioned Diffusion Model |[PDF](https://arxiv.org/pdf/2301.04474.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/DanBigioi/DiffusionVideoEditing)|
+|2023|Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head Video Generation |[PDF](https://arxiv.org/pdf/2307.09906.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/harlanhong/ICCV2023-MCNET)|
+|2023|OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering |[PDF](https://arxiv.org/pdf/2303.14662.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/theEricMa/OTAvatar)|
 
 ### 🧪 Medical Image Segmentation
 
