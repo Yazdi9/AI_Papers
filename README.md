@@ -52,6 +52,7 @@
 |2023|Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert|[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Sxjdwang/TalkLip)|
 |2023|GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis|[PDF](https://arxiv.org/pdf/2301.13430.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yerfor/GeneFace)|
 |2023|CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|[PDF](https://arxiv.org/pdf/2301.02379.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Doubiiu/CodeTalker)|
+|2023|Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars|[PDF](https://arxiv.org/pdf/2211.11208.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MrTornado24/Next3D)|
 
 ### 🧪 Medical Image Segmentation
 
