@@ -53,6 +53,8 @@
 |2023|GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis|[PDF](https://arxiv.org/pdf/2301.13430.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yerfor/GeneFace)|
 |2023|CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior|[PDF](https://arxiv.org/pdf/2301.02379.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Doubiiu/CodeTalker)|
 |2023|Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars|[PDF](https://arxiv.org/pdf/2211.11208.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/MrTornado24/Next3D)|
+|2023|Conditional Image-to-Video Generation with Latent Flow Diffusion Models|[PDF](https://arxiv.org/abs/2303.13744.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nihaomiao/CVPR23_LFDM)|
+|2023|Class-consistent and Diverse Image Generation through StyleGANs|[PDF](https://arxiv.org/abs/2304.05866.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/val-iisc/NoisyTwins)|
 
 ### 🧪 Medical Image Segmentation
 
