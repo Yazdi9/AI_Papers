@@ -88,7 +88,7 @@
 |2023|CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion|[PDF](https://browse.arxiv.org/pdf/2308.01239v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks)|
 |2023|SAM-Med2D|[PDF](https://browse.arxiv.org/pdf/2308.16184v1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenGVLab/SAM-Med2D)|
 |2023|Segment Anything Model for Medical Image Analysis: an Experimental Study|[PDF](https://browse.arxiv.org/pdf/2304.10517v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/mazurowski-lab/segment-anything-medical-evaluation)|
-
+|2023|ScaleCrafter for higher-resolution visual generation at inference time|[PDF](https://arxiv.org/abs/2310.07702.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/YingqingHe/ScaleCrafter)|
 
 
 
