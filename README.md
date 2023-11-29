@@ -43,6 +43,7 @@
 |2022|StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pretrained StyleGAN |[PDF](https://arxiv.org/pdf/2207.11770.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/sstzal/DFRF)|
 |2022|Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis |[PDF](https://arxiv.org/pdf/2204.06307.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Xuanmeng-Zhang/MVCGAN)|
 |2022| FNeVR: Neural Volume Rendering for Face Animation|[PDF](https://arxiv.org/pdf/2209.10340.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/zengbohan0217/FNeVR)|
+|2022|EpiGRAF: Rethinking training of 3D GANs|[PDF](https://universome.github.io/assets/projects/epigraf/epigraf.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/universome/epigraf)|
 |2023|Text-To-4D Dynamic Scene Generation|[PDF](https://browse.arxiv.org/pdf/2301.11280v1.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)]()|
 |2023|StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles|[PDF](https://arxiv.org/pdf/2203.04036.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/OpenTalker/StyleHEAT)|
 |2023|Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis|[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Efficient_Region-Aware_Neural_Radiance_Fields_for_High-Fidelity_Talking_Portrait_Synthesis_ICCV_2023_paper.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Fictionarry/ER-NeRF)|
@@ -57,7 +58,8 @@
 |2023|Conditional Image-to-Video Generation with Latent Flow Diffusion Models|[PDF](https://arxiv.org/abs/2303.13744.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nihaomiao/CVPR23_LFDM)|
 |2023|Class-consistent and Diverse Image Generation through StyleGANs|[PDF](https://arxiv.org/abs/2304.05866.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/val-iisc/NoisyTwins)|
 |2023|An efficient PyTorch-based library for training 3D-aware image synthesis models.|[PDF](https://arxiv.org/pdf/2306.12423.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/qiuyu96/Carver)|
-
+|2023|Semantic-aware Generation of Multi-view Portrait Drawings (SAGE)|[PDF](https://arxiv.org/pdf/2305.02618.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/AiArt-HDU/SAGE)|
+|2023|Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction|[PDF](https://arxiv.org/pdf/2304.06714.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Lakonik/SSDNeRF)|
 
 ### 🧪 Medical Image Segmentation
 
